@@ -11,6 +11,7 @@ namespace FinanceTracker.Api.Controllers
         public IActionResult GetPortfolioSummary(Guid accountId)
         {
             // Logic to get high level portfolio summary for the account
+            Console.WriteLine("Summary for account: " + accountId);
             return Ok();
         }
     }

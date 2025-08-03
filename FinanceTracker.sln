@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Api", "FinanceTracker.Api\FinanceTracker.Api.csproj", "{B86EE19F-D63E-C0A8-373D-6539DD48F254}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Api", "src\Api\FinanceTracker.Api.csproj", "{B86EE19F-D63E-C0A8-373D-6539DD48F254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Domain", "FinanceTracker.Domain\FinanceTracker.Domain.csproj", "{8955CD01-ECFF-42C3-8BFD-D4B4384EA6F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Domain", "src\Core\Domain\FinanceTracker.Domain.csproj", "{8955CD01-ECFF-42C3-8BFD-D4B4384EA6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Application", "FinanceTracker.Application\FinanceTracker.Application.csproj", "{A5F7BCCE-B951-4E15-8190-41E994465272}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Application", "src\Core\Application\FinanceTracker.Application.csproj", "{A5F7BCCE-B951-4E15-8190-41E994465272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Infrastructure", "FinanceTracker.Infrastructure\FinanceTracker.Infrastructure.csproj", "{D7A820C8-E242-4DD3-A321-2DAC4A9FE6E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Infrastructure", "src\External\Infrastructure\FinanceTracker.Infrastructure.csproj", "{D7A820C8-E242-4DD3-A321-2DAC4A9FE6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Contract", "FinanceTracker.Contract\FinanceTracker.Contract.csproj", "{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Contract", "src\External\Contract\FinanceTracker.Contract.csproj", "{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Presentation", "FinanceTracker.Presentation\FinanceTracker.Presentation.csproj", "{EE44A709-F8B9-46F9-9207-89E2712DF109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Presentation", "src\External\Presentation\FinanceTracker.Presentation.csproj", "{EE44A709-F8B9-46F9-9207-89E2712DF109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
