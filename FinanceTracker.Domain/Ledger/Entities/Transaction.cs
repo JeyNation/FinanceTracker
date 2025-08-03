@@ -2,7 +2,7 @@ using FinanceTracker.Domain.Ledger.Enums;
 using FinanceTracker.Domain.Common.Enums;
 using FinanceTracker.Domain.Common.Exceptions;
 
-namespace FinanceTracker.Domain.Ledger.Entity;
+namespace FinanceTracker.Domain.Ledger.Entities;
 
 public class Transaction
 {

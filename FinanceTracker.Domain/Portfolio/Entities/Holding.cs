@@ -1,7 +1,7 @@
 using FinanceTracker.Domain.Common.Enums;
 using FinanceTracker.Domain.Common.Exceptions;
 
-namespace FinanceTracker.Domain.Portfolio.Entity;
+namespace FinanceTracker.Domain.Portfolio.Entities;
 
 public class Holding
 {

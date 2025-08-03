@@ -3,7 +3,7 @@ using FinanceTracker.Domain.Common.Enums;
 using FinanceTracker.Domain.Ledger.Exceptions;
 using FinanceTracker.Domain.Common.Exceptions;
 
-namespace FinanceTracker.Domain.Ledger.Entity;
+namespace FinanceTracker.Domain.Ledger.Entities;
 
 public class Account
 {

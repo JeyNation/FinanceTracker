@@ -1,7 +1,7 @@
 using FinanceTracker.Domain.Common.Exceptions;
 using FinanceTracker.Domain.Portfolio.Enums;
 
-namespace FinanceTracker.Domain.Portfolio.Entity;
+namespace FinanceTracker.Domain.Portfolio.Entities;
 
 public class Trade
 {

@@ -3,7 +3,7 @@ using FinanceTracker.Domain.Common.Exceptions;
 using FinanceTracker.Domain.User.Exceptions;
 using FinanceTracker.Domain.User.ValueObjects;
 
-namespace FinanceTracker.Domain.User.Entity;
+namespace FinanceTracker.Domain.User.Entities;
 
 public class User
 {
