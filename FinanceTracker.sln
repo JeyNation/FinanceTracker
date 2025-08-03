@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Infrastructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Contract", "FinanceTracker.Contract\FinanceTracker.Contract.csproj", "{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker.Presentation", "FinanceTracker.Presentation\FinanceTracker.Presentation.csproj", "{EE44A709-F8B9-46F9-9207-89E2712DF109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}.Release|x64.Build.0 = Release|Any CPU
 		{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}.Release|x86.ActiveCfg = Release|Any CPU
 		{1F66384B-31E3-4EF8-ACCB-6EBAD3F964E5}.Release|x86.Build.0 = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|x64.Build.0 = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|x64.ActiveCfg = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|x64.Build.0 = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE44A709-F8B9-46F9-9207-89E2712DF109}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

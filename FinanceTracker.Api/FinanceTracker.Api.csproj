@@ -8,12 +8,16 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="9.0.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FinanceTracker.Application\FinanceTracker.Application.csproj" />
     <ProjectReference Include="..\FinanceTracker.Contract\FinanceTracker.Contract.csproj" />
+    <ProjectReference Include="..\FinanceTracker.Infrastructure\FinanceTracker.Infrastructure.csproj" />
+    <ProjectReference Include="..\FinanceTracker.Presentation\FinanceTracker.Presentation.csproj" />
   </ItemGroup>
 
 </Project>
