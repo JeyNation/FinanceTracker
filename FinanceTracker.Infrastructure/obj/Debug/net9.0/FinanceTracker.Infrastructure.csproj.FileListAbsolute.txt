@@ -1,0 +1,11 @@
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\bin\Debug\net9.0\FinanceTracker.Infrastructure.deps.json
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\bin\Debug\net9.0\FinanceTracker.Infrastructure.dll
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\bin\Debug\net9.0\FinanceTracker.Infrastructure.pdb
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.AssemblyInfo.cs
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.dll
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\refint\FinanceTracker.Infrastructure.dll
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\FinanceTracker.Infrastructure.pdb
+D:\Projects\FinanceTracker\FinanceTracker.Api\FinanceTracker.Infrastructure\obj\Debug\net9.0\ref\FinanceTracker.Infrastructure.dll
