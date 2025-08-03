@@ -20,3 +20,4 @@ D:\Projects\FinanceTracker\FinanceTracker.Contract\obj\Debug\net9.0\FinanceTrack
 D:\Projects\FinanceTracker\FinanceTracker.Contract\obj\Debug\net9.0\refint\FinanceTracker.Contract.dll
 D:\Projects\FinanceTracker\FinanceTracker.Contract\obj\Debug\net9.0\FinanceTracker.Contract.pdb
 D:\Projects\FinanceTracker\FinanceTracker.Contract\obj\Debug\net9.0\ref\FinanceTracker.Contract.dll
+D:\Projects\FinanceTracker\FinanceTracker.Contract\obj\Debug\net9.0\FinanceTracker.Contract.sourcelink.json
