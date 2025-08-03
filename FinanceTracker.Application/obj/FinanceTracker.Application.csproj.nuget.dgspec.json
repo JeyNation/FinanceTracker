@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\FinanceTracker.Application.csproj": {}
+    "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\FinanceTracker.Application.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\FinanceTracker.Application.csproj": {
+    "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\FinanceTracker.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
         "projectName": "FinanceTracker.Application",
-        "projectPath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
+        "projectPath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
         "packagesPath": "C:\\Users\\jeyon\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\obj\\",
+        "outputPath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeyon\\AppData\\Roaming\\NuGet\\NuGet.Config"

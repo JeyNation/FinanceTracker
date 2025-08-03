@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B3UY3x67OrQ=",
+  "dgSpecHash": "owqFT9noLYM=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Api\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
+  "projectFilePath": "D:\\Projects\\FinanceTracker\\FinanceTracker.Application\\FinanceTracker.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeyon\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
     "C:\\Users\\jeyon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.1\\swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
