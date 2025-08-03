@@ -1,0 +1,37 @@
+# .NET build and VS artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+# Rider project files
+.idea/
+# OS generated files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Visual Studio Code
+.vscode/
+# NuGet packages
+*.nupkg
+# Test results
+TestResults/
+# Build results
+[Bb]uild/
+# Others
+*.swp
+*.tmp
+*.bak
+*.orig
+*.rej
+# Auto-generated AssemblyInfo files
+**/AssemblyInfo.cs
+# Publish directory
+publish/
+# Coverage reports
+coverage/
+# node_modules (if any JS tooling)
+node_modules/
