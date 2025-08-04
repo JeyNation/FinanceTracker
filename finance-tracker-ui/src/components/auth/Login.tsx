@@ -36,7 +36,9 @@ const Login: React.FC = () => {
       });
 
       if (response.ok) {
-        const data: LoginResponse = await response.json();
+        const responseData: LoginResponse = await response.json();
+        // Handle successful login here
+        console.log('Login successful:', responseData);
       } else {
         console.error('Login failed');
       }
@@ -79,7 +81,7 @@ const Login: React.FC = () => {
           </button>
         </form>
         <div className="login-footer">
-          <p>Don't have an account? <a href="/register">Register</a></p>
+          <p>Don&apos;t have an account? <a href="/register">Register</a></p>
         </div>
       </div>
     </div>
