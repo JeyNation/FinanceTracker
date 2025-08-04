@@ -8,7 +8,6 @@ interface LoginFormData {
 
 interface LoginResponse {
   token: string;
-  // Add other response fields as needed
 }
 
 const Login: React.FC = () => {
@@ -38,10 +37,7 @@ const Login: React.FC = () => {
 
       if (response.ok) {
         const data: LoginResponse = await response.json();
-        // Handle successful login
-        // Store token or redirect
       } else {
-        // Handle login error
         console.error('Login failed');
       }
     } catch (error) {
